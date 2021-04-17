@@ -1,3 +1,3 @@
-# InvententoryProject
+# InventoryProject
 
 This is my PHP project
